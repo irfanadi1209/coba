@@ -1,4 +1,37 @@
 Analisa Tools Jira vs YouTrack vs Trello
 1. Flow Penggunaan Tools
+    - Jira :
+        - Jira menerapkan flow seperti pada grafik flow chart (sistem flowchart).
+        - Jira memiliki flow status create, open, in progress, in review, acceptance, cancel, dan done
+            sesuai dengan kebutuhan perusahaan.
+        - Setiap status dapat diisi dengan task yang dibutuhkan.
+    - YouTrack :
+        - YouTrack menerapkan list task yang dikelompokkan dalam kategori (sistem list category).
+        - YouTrack memiliki status seperti pada Jira yang bisa disesuaikan dengan kebutuhan.
+        - Tools pada youtrack terbilang lengkap
+    - Trello :
+        - Trello menampilkan tabel status yang berisi task yang akan dilakukan (sistem drag and drop).
+        - Tugas yang telah selesai dapat dipindahkan ke status berikutnya
+        - Apabila masih terdapat hal yang perlu diperbaiki dari tugas, dapat dipindah kembali ke
+            status sebelumnya.
 2. Jelaskan untuk kelebihan dan kekurangan dari masing-masing Tools
-3. Pilih mana yang digunakan untuk membuat workboard refactory
+    Kelebihan :
+        - Jira :
+            - Powerful
+            - Flexible
+        - YouTrack :
+            - Murah
+        - Trello :
+            - Gratis
+            - Flexible
+            - Simple
+    Kekurangan :
+        - Jira :
+            - Mahal
+        - YouTrack :
+            - integrasi ekosistem rendah
+        - Trello :
+            - Tidak ada konsep point
+3. Pilih mana yang digunakan untuk membuat workboard refactory?
+    - Trello lebih cocok digunakan untuk perusahaan yang menerapkan sistem kolaborasi,
+        refactory menggunakan kolaborasi dalam pengerjaan kode serta lebih fleksibel.
