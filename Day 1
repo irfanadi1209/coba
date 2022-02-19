@@ -4,9 +4,5 @@ Stack: Backend
 Bahasa Pemrograman: Python, Javascript
 Domisili: Bogor
 Project:
-<<<<<<< HEAD
-- Membuat aplikasi ticketing opensource dengan sistem NFC
 - Membuat sistem absensi dengan melacak GPS
-=======
-- Membuat aplikasi ticketing free dan opensource dengan sistem barcode generator
->>>>>>> origin/master
+- Membuat aplikasi ticketing free dan opensource dengan sistem barcode generator dan NFC
